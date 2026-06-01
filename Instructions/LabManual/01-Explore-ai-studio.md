@@ -18,6 +18,16 @@ lab:
 
 > **注**: この演習で使用されるテクノロジの一部は、プレビューの段階または開発中の段階です。 予期しない動作、警告、またはエラーが発生する場合があります。
 
+## 今回のラボ環境をご自身のローカル環境で実現する場合
+
+研修内で配布、使用する環境は以下が含まれています。ローカル環境でラボ内容を実行する場合はインストール等が必要となります。
+
+- 有効な [Azure サブスクリプション](https://azure.microsoft.com/pricing/purchase-options/azure-account)
+- [Visual Studio Code](https://code.visualstudio.com/) がインストールされていること
+- [Python バージョン**3.13.xx**](https://www.python.org/downloads/release/python-31312/) がインストール済み\*
+- [Git](https://git-scm.com/install/) がインストールおよび構成済み
+- [Azure CLI](https://learn.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest) がインストールされていること
+
 ## Microsoft Foundry プロジェクトを作成する
 
 Microsoft Foundry では "プロジェクト" を使って、AI ソリューションの開発に使われるモデル、リソース、データ、その他の資産を整理します。
