@@ -8,7 +8,7 @@
 
 ## マニュアルの見かた
 
-講師の指示に従い、「**[LabManual](https://github.com/ctct-edu/AI-3016-Lab_v2/tree/main/LabManual)**」のフォルダへ移動してください。
+講師の指示に従い、「**[LabManual](https://github.com/ctct-edu/AI-3016-Lab_v2/tree/main/Instructions/LabManual)**」のフォルダへ移動してください。
 
 フォルダ内に各演習のラボマニュアルが掲載されています。
 
