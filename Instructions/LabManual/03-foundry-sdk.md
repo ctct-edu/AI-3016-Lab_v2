@@ -33,8 +33,9 @@ lab:
 
 チャット アプリケーションの開発に必要な初期アプリケーション ファイルが、GitHub リポジトリに提供されます。
 
-1. Visual Studio Code を開きます。
-1. コマンド パレット (*Ctrl + Shift + P*) を開き、`Git:clone` コマンドを使用して、`https://github.com/microsoftlearning/mslearn-ai-studio` リポジトリをローカル フォルダーにクローンします (どのフォルダーでもかまいません)。 次に、それを開きます。
+1. 演習用仮想マシンでVisual Studio Code を開きます。
+
+1. コマンド パレット (*Ctrl + Shift + P*) を開き、`Git:clone` コマンドを入力してEnterキーを押下します。その後、`https://github.com/microsoftlearning/mslearn-ai-studio` リポジトリURLを入力して任意のローカル フォルダーにクローンします。 次に、それを開きます。
 
     作成者を信頼することを確認するメッセージが表示される場合があります。 **[はい、作成者を信頼します]** をクリックして進めます。
 
